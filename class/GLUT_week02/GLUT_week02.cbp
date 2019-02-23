@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="week02-GLUT" />
+		<Option title="GLUT_week02" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/week02-GLUT" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/GLUT_week02" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="C:/Users/alant/Desktop/freeglut/bin" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/week02-GLUT" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/GLUT_week02" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="C:/Users/alant/Desktop/freeglut/bin" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
@@ -47,6 +47,7 @@
 			<code_completion />
 			<envvars />
 			<debugger />
+			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
