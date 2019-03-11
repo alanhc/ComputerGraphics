@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1552218527 source:c:\users\alant\desktop\hw03\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+
+1550805957 c:\users\alant\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1550805957 c:\users\alant\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1552218527 source:c:\users\alant\onedrive\¤å¥ó\github\computergraphics\homework\week03_hwglut\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+
